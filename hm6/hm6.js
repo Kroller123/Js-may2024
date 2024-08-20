@@ -44,7 +44,7 @@ console.log('-----------------')
 //
 let dirtyStr = ' dirty string   '
 
-console.log(dirtyStr.slice(1, 13));
+console.log(dirtyStr.trim());
 console.log('-----------------')
 //     #bfoJuse4ZzP
 // - Напишіть функцію stringToarray(str), яка перетворює рядок на масив слів.
